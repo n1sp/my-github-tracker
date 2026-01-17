@@ -1,0 +1,38 @@
+name: Update GitHub Data
+
+on:
+  schedule:
+    # 毎日日本時間 午前3時 (UTC 18時) に実行
+    - cron: '0 18 * * *'
+  workflow_dispatch: # 手動実行も可能にする
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # データをPushするために必要
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch data from GitHub
+        run: node scripts/fetch-data.js
+        env:
+          # リポジトリの Secrets に MY_GITHUB_TOKEN を登録しておく必要があります
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+
+      - name: Commit and Push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/github-data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "data: periodic update of github-data.json" && git push)
