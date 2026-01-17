@@ -1,27 +1,32 @@
 {
-  "lastUpdated": "2026-01-17T18:41:15.306Z",
+  "lastUpdated": "2026-01-17T19:59:15.685Z",
   "yesterday": {
-    "commitCount": 4,
+    "commitCount": 6,
     "commits": [
+      {
+        "repo": "my-github-tracker",
+        "message": "feat: PWA機能と関連するアイコンを追加、VitePWAプラグインを設定",
+        "time": "19:55"
+      },
+      {
+        "repo": "my-github-tracker",
+        "message": "initial commit",
+        "time": "18:51"
+      },
       {
         "repo": "bds-manager",
         "message": "add: BDS Backend 実装スケジュール（学習重視版）を追加",
-        "time": "02:05"
+        "time": "17:05"
       },
       {
         "repo": "bds-supervisor-front",
         "message": "fix: READMEの整備と環境変数化及び、.envのサンプルを用意",
-        "time": "01:08"
+        "time": "16:08"
       },
       {
         "repo": "bds-manager",
         "message": "add: フロントエンド視点からのAPI仕様(by Gemini 3 Pro)を追加",
-        "time": "00:57"
-      },
-      {
-        "repo": "bds-supervisor-front",
-        "message": "feat: modernize UI and implement repository pattern for BDS backend",
-        "time": "23:18"
+        "time": "15:57"
       }
     ]
   },
@@ -33,7 +38,7 @@
     },
     {
       "name": "TypeScript",
-      "percent": 21,
+      "percent": 20,
       "color": "#3178c6"
     },
     {
@@ -43,11 +48,11 @@
     },
     {
       "name": "Others",
-      "percent": 3,
+      "percent": 4,
       "color": "#8b949e"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 12
+    "currentCommits": 14
   }
 }
