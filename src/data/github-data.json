@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-01-17T19:59:15.685Z",
+  "lastUpdated": "2026-01-18T18:13:33.505Z",
   "yesterday": {
-    "commitCount": 6,
+    "commitCount": 2,
     "commits": [
       {
         "repo": "my-github-tracker",
@@ -12,21 +12,6 @@
         "repo": "my-github-tracker",
         "message": "initial commit",
         "time": "18:51"
-      },
-      {
-        "repo": "bds-manager",
-        "message": "add: BDS Backend 実装スケジュール（学習重視版）を追加",
-        "time": "17:05"
-      },
-      {
-        "repo": "bds-supervisor-front",
-        "message": "fix: READMEの整備と環境変数化及び、.envのサンプルを用意",
-        "time": "16:08"
-      },
-      {
-        "repo": "bds-manager",
-        "message": "add: フロントエンド視点からのAPI仕様(by Gemini 3 Pro)を追加",
-        "time": "15:57"
       }
     ]
   },
@@ -53,6 +38,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 14
+    "currentCommits": 12
   }
 }
