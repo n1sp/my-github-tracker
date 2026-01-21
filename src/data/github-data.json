@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-01-20T18:19:30.516Z",
+  "lastUpdated": "2026-01-21T18:28:02.594Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 2,
+    "commits": [
+      {
+        "repo": "bds-manager",
+        "message": "add: 例外処理用のクラスを追加し、グローバル例外ハンドラーを実装",
+        "time": "14:21"
+      },
+      {
+        "repo": "bds-manager",
+        "message": "fix: 不要なインポート文を削除",
+        "time": "12:52"
+      }
+    ]
   },
   "languages": [
     {
