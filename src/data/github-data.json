@@ -1,29 +1,24 @@
 {
-  "lastUpdated": "2026-01-21T18:28:02.594Z",
+  "lastUpdated": "2026-01-22T18:16:36.103Z",
   "yesterday": {
-    "commitCount": 2,
+    "commitCount": 1,
     "commits": [
       {
-        "repo": "bds-manager",
-        "message": "add: 例外処理用のクラスを追加し、グローバル例外ハンドラーを実装",
-        "time": "14:21"
-      },
-      {
-        "repo": "bds-manager",
-        "message": "fix: 不要なインポート文を削除",
-        "time": "12:52"
+        "repo": "my-react-blog",
+        "message": "first commit",
+        "time": "14:59"
       }
     ]
   },
   "languages": [
     {
       "name": "Java",
-      "percent": 65,
+      "percent": 66,
       "color": "#b07219"
     },
     {
       "name": "TypeScript",
-      "percent": 20,
+      "percent": 19,
       "color": "#3178c6"
     },
     {
@@ -38,6 +33,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 12
+    "currentCommits": 13
   }
 }
