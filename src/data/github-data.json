@@ -1,29 +1,8 @@
 {
-  "lastUpdated": "2026-01-25T20:43:40.130Z",
+  "lastUpdated": "2026-01-26T18:18:54.595Z",
   "yesterday": {
-    "commitCount": 4,
-    "commits": [
-      {
-        "repo": "bds-manager",
-        "message": "doc: backend専用のREADMEを追加（暫定）",
-        "time": "12:44"
-      },
-      {
-        "repo": "bds-manager",
-        "message": "feat: pom.xmlにJackson 3.xの依存関係を追加（後日実装用）",
-        "time": "12:44"
-      },
-      {
-        "repo": "bds-manager",
-        "message": "fix: serviceのモック化",
-        "time": "12:43"
-      },
-      {
-        "repo": "bds-manager",
-        "message": "feat: バックアップ処理定期実行（実装予定）用に\"@EnableScheduling\"アノテーションを追加",
-        "time": "12:38"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
