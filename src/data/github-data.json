@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-01-26T18:18:54.595Z",
+  "lastUpdated": "2026-01-27T15:28:38.698Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 3,
+    "commits": [
+      {
+        "repo": "bds-manager",
+        "message": "refactor: DockerServiceでのログ出力をSystem.outからslf4jのLoggerに変更",
+        "time": "14:14"
+      },
+      {
+        "repo": "bds-manager",
+        "message": "refactor: DockerServiceの例外処理をカスタム例外に統一",
+        "time": "14:04"
+      },
+      {
+        "repo": "bds-manager",
+        "message": "fix: FileOperationExceptionクラスのアクセス修飾子をpublicに変更",
+        "time": "13:52"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 76,
+      "percent": 77,
       "color": "#3178c6"
     },
     {
@@ -22,11 +38,11 @@
     },
     {
       "name": "JavaScript",
-      "percent": 6,
+      "percent": 5,
       "color": "#f1e05a"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 9
+    "currentCommits": 12
   }
 }
