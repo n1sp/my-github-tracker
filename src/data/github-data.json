@@ -1,24 +1,8 @@
 {
-  "lastUpdated": "2026-01-27T18:21:50.370Z",
+  "lastUpdated": "2026-01-28T18:22:11.894Z",
   "yesterday": {
-    "commitCount": 3,
-    "commits": [
-      {
-        "repo": "bds-manager",
-        "message": "refactor: DockerServiceでのログ出力をSystem.outからslf4jのLoggerに変更",
-        "time": "14:14"
-      },
-      {
-        "repo": "bds-manager",
-        "message": "refactor: DockerServiceの例外処理をカスタム例外に統一",
-        "time": "14:04"
-      },
-      {
-        "repo": "bds-manager",
-        "message": "fix: FileOperationExceptionクラスのアクセス修飾子をpublicに変更",
-        "time": "13:52"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
