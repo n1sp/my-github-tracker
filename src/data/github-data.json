@@ -1,8 +1,29 @@
 {
-  "lastUpdated": "2026-01-29T18:28:41.276Z",
+  "lastUpdated": "2026-01-30T18:25:02.843Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 4,
+    "commits": [
+      {
+        "repo": "n1sp-tech-blog",
+        "message": "feat: microCMSから疎通確認用データを取得するロジックを実装",
+        "time": "16:45"
+      },
+      {
+        "repo": "n1sp-tech-blog",
+        "message": "chore: Dev Containerの導入",
+        "time": "15:49"
+      },
+      {
+        "repo": "n1sp-tech-blog",
+        "message": "feat: Start Next.js + microCMS blog project",
+        "time": "15:10"
+      },
+      {
+        "repo": "n1sp-tech-blog",
+        "message": "chore: remove all project files",
+        "time": "13:43"
+      }
+    ]
   },
   "languages": [
     {
@@ -27,6 +48,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 10
+    "currentCommits": 14
   }
 }
