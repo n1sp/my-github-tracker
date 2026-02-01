@@ -1,24 +1,44 @@
 {
-  "lastUpdated": "2026-01-31T18:16:34.931Z",
+  "lastUpdated": "2026-02-01T18:18:06.437Z",
   "yesterday": {
-    "commitCount": 1,
+    "commitCount": 6,
     "commits": [
       {
         "repo": "n1sp-tech-blog",
-        "message": "fix: Homeコンポーネントの引数の型定義ミスを修正",
-        "time": "15:01"
+        "message": "style: スタイルあててもらった（by gemini）",
+        "time": "06:43"
+      },
+      {
+        "repo": "n1sp-tech-blog",
+        "message": "style: @tailwindcss/typographyをあてて、スタイル修正",
+        "time": "06:29"
+      },
+      {
+        "repo": "n1sp-tech-blog",
+        "message": "feat: react-markdownでパースするよう修正",
+        "time": "06:25"
+      },
+      {
+        "repo": "n1sp-tech-blog",
+        "message": "refactor: Blog型の共通化",
+        "time": "06:18"
+      },
+      {
+        "repo": "n1sp-tech-blog",
+        "message": "chore: Use environment variables for API key",
+        "time": "04:14"
       }
     ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 77,
+      "percent": 78,
       "color": "#3178c6"
     },
     {
       "name": "Others",
-      "percent": 12,
+      "percent": 11,
       "color": "#8b949e"
     },
     {
@@ -33,6 +53,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 13
+    "currentCommits": 19
   }
 }
