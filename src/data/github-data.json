@@ -1,32 +1,12 @@
 {
-  "lastUpdated": "2026-02-01T18:18:06.437Z",
+  "lastUpdated": "2026-02-02T18:26:14.914Z",
   "yesterday": {
-    "commitCount": 6,
+    "commitCount": 1,
     "commits": [
       {
-        "repo": "n1sp-tech-blog",
-        "message": "style: スタイルあててもらった（by gemini）",
-        "time": "06:43"
-      },
-      {
-        "repo": "n1sp-tech-blog",
-        "message": "style: @tailwindcss/typographyをあてて、スタイル修正",
-        "time": "06:29"
-      },
-      {
-        "repo": "n1sp-tech-blog",
-        "message": "feat: react-markdownでパースするよう修正",
-        "time": "06:25"
-      },
-      {
-        "repo": "n1sp-tech-blog",
-        "message": "refactor: Blog型の共通化",
-        "time": "06:18"
-      },
-      {
-        "repo": "n1sp-tech-blog",
-        "message": "chore: Use environment variables for API key",
-        "time": "04:14"
+        "repo": "life-design",
+        "message": "2026-02-02.md を作成",
+        "time": "13:30"
       }
     ]
   },
@@ -53,6 +33,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 19
+    "currentCommits": 16
   }
 }
