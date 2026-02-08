@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-02-07T18:18:21.291Z",
+  "lastUpdated": "2026-02-08T18:19:42.958Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 2,
+    "commits": [
+      {
+        "repo": "life-design",
+        "message": "2026/02 1wレポート作成",
+        "time": "18:29"
+      },
+      {
+        "repo": "life-design",
+        "message": "テンプレートを作成",
+        "time": "18:28"
+      }
+    ]
   },
   "languages": [
     {
@@ -27,6 +38,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 16
+    "currentCommits": 17
   }
 }
