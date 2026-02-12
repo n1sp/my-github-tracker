@@ -1,18 +1,34 @@
 {
-  "lastUpdated": "2026-02-11T18:45:26.142Z",
+  "lastUpdated": "2026-02-12T18:43:59.394Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 3,
+    "commits": [
+      {
+        "repo": "logify",
+        "message": "doc: 仕様書_草案.mdを追加",
+        "time": "15:41"
+      },
+      {
+        "repo": "logify",
+        "message": "Initial commit",
+        "time": "15:39"
+      },
+      {
+        "repo": "life-design",
+        "message": "2026-02-12.md を作成",
+        "time": "11:27"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 78,
+      "percent": 77,
       "color": "#3178c6"
     },
     {
       "name": "Others",
-      "percent": 11,
+      "percent": 12,
       "color": "#8b949e"
     },
     {
@@ -27,6 +43,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 12
+    "currentCommits": 14
   }
 }
