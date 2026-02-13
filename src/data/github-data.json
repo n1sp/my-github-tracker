@@ -1,24 +1,8 @@
 {
-  "lastUpdated": "2026-02-12T18:43:59.394Z",
+  "lastUpdated": "2026-02-13T18:29:28.421Z",
   "yesterday": {
-    "commitCount": 3,
-    "commits": [
-      {
-        "repo": "logify",
-        "message": "doc: 仕様書_草案.mdを追加",
-        "time": "15:41"
-      },
-      {
-        "repo": "logify",
-        "message": "Initial commit",
-        "time": "15:39"
-      },
-      {
-        "repo": "life-design",
-        "message": "2026-02-12.md を作成",
-        "time": "11:27"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
@@ -43,6 +27,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 14
+    "currentCommits": 9
   }
 }
