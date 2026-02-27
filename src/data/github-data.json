@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-02-26T18:35:40.578Z",
+  "lastUpdated": "2026-02-27T18:25:06.554Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 3,
+    "commits": [
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "chore: .clasp.json を管理対象から除外",
+        "time": "14:54"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "feat: clasp.jsonファイルを追加し、スクリプトIDとルートディレクトリを設定",
+        "time": "14:50"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "fix: マッピング元スプレッドシートIDを修正し、メールアドレス項目を追加",
+        "time": "14:43"
+      }
+    ]
   },
   "languages": [
     {
@@ -27,6 +43,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 0
+    "currentCommits": 6
   }
 }
