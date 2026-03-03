@@ -1,18 +1,44 @@
 {
-  "lastUpdated": "2026-03-02T18:30:00.921Z",
+  "lastUpdated": "2026-03-03T18:32:05.405Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 7,
+    "commits": [
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "doc: README.mdを最新化",
+        "time": "15:23"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "refactor: 後方互換は不要になったため、削除",
+        "time": "15:09"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "Remove clasp config files from git tracking",
+        "time": "14:35"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "chore: gitignoreを更新",
+        "time": "14:32"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "Merge pull request #41 from n1sp/refactor/refactoring-major-revolution",
+        "time": "14:22"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 78,
+      "percent": 76,
       "color": "#3178c6"
     },
     {
       "name": "Others",
-      "percent": 11,
+      "percent": 12,
       "color": "#8b949e"
     },
     {
@@ -22,11 +48,11 @@
     },
     {
       "name": "JavaScript",
-      "percent": 5,
+      "percent": 6,
       "color": "#f1e05a"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 6
+    "currentCommits": 13
   }
 }
