@@ -1,34 +1,8 @@
 {
-  "lastUpdated": "2026-03-03T18:32:05.405Z",
+  "lastUpdated": "2026-03-04T18:30:59.217Z",
   "yesterday": {
-    "commitCount": 7,
-    "commits": [
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "doc: README.mdを最新化",
-        "time": "15:23"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "refactor: 後方互換は不要になったため、削除",
-        "time": "15:09"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "Remove clasp config files from git tracking",
-        "time": "14:35"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "chore: gitignoreを更新",
-        "time": "14:32"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "Merge pull request #41 from n1sp/refactor/refactoring-major-revolution",
-        "time": "14:22"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
