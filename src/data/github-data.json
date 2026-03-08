@@ -1,32 +1,58 @@
 {
-  "lastUpdated": "2026-03-07T18:16:55.996Z",
+  "lastUpdated": "2026-03-08T18:17:00.563Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 16,
+    "commits": [
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "Merge pull request #49 from n1sp/test/add-config-field-mapping-tests",
+        "time": "15:32"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "test: config.test.tsを追加し、DESTINATION_FIELDSおよびPARTNER_FIELDSのユニットテストを実装",
+        "time": "15:30"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "Merge pull request #46 from n1sp/refactor/dynamic-parent-spreadsheet-id",
+        "time": "15:13"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "fix: 例外オブジェクトを取得してログに流すよう修正",
+        "time": "15:13"
+      },
+      {
+        "repo": "mb-leads-sync-gas",
+        "message": "refactor: ファイルパスを修正し、gas-wrapper.tsの説明を更新",
+        "time": "15:02"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 76,
+      "percent": 79,
       "color": "#3178c6"
     },
     {
       "name": "Others",
-      "percent": 12,
+      "percent": 11,
       "color": "#8b949e"
     },
     {
       "name": "Go",
-      "percent": 6,
+      "percent": 5,
       "color": "#00ADD8"
     },
     {
       "name": "JavaScript",
-      "percent": 6,
+      "percent": 5,
       "color": "#f1e05a"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 7
+    "currentCommits": 23
   }
 }
