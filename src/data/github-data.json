@@ -1,34 +1,8 @@
 {
-  "lastUpdated": "2026-03-08T18:17:00.563Z",
+  "lastUpdated": "2026-03-09T18:35:21.605Z",
   "yesterday": {
-    "commitCount": 16,
-    "commits": [
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "Merge pull request #49 from n1sp/test/add-config-field-mapping-tests",
-        "time": "15:32"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "test: config.test.tsを追加し、DESTINATION_FIELDSおよびPARTNER_FIELDSのユニットテストを実装",
-        "time": "15:30"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "Merge pull request #46 from n1sp/refactor/dynamic-parent-spreadsheet-id",
-        "time": "15:13"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "fix: 例外オブジェクトを取得してログに流すよう修正",
-        "time": "15:13"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "refactor: ファイルパスを修正し、gas-wrapper.tsの説明を更新",
-        "time": "15:02"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
