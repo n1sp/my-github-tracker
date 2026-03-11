@@ -1,24 +1,8 @@
 {
-  "lastUpdated": "2026-03-10T18:32:48.489Z",
+  "lastUpdated": "2026-03-11T18:37:48.484Z",
   "yesterday": {
-    "commitCount": 3,
-    "commits": [
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "Merge pull request #51 from n1sp/feat/github-actions-release",
-        "time": "15:32"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "ci: タグpush時にGitHub Releaseを自動作成するワークフローを追加",
-        "time": "15:31"
-      },
-      {
-        "repo": "mb-leads-sync-gas",
-        "message": "chore: dist/appsscript.json をgit管理対象に追加",
-        "time": "15:30"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
@@ -43,6 +27,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 26
+    "currentCommits": 19
   }
 }
