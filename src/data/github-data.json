@@ -1,32 +1,48 @@
 {
-  "lastUpdated": "2026-03-19T18:39:01.403Z",
+  "lastUpdated": "2026-03-20T18:30:47.828Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 15,
+    "commits": [
+      {
+        "repo": "hoshii",
+        "message": "feat: Phase1 MVP + Supabase連携・AIカテゴリ分類・統計ページ実装",
+        "time": "18:05"
+      },
+      {
+        "repo": "hoshii",
+        "message": "chore: Phase 3 Session A 全タスク完了 — TASKS.md を [x] に更新",
+        "time": "17:06"
+      },
+      {
+        "repo": "hoshii",
+        "message": "feat: 集計・レポート API（月別・カテゴリ別・CSV エクスポート）",
+        "time": "17:06"
+      },
+      {
+        "repo": "hoshii",
+        "message": "chore: Phase 1 Session A 全タスク完了 — TASKS.md を [x] に更新",
+        "time": "16:57"
+      },
+      {
+        "repo": "hoshii",
+        "message": "feat: アイテム CRUD API（GET/POST/PATCH/DELETE）",
+        "time": "16:57"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 79,
+      "percent": 81,
       "color": "#3178c6"
     },
     {
       "name": "Others",
-      "percent": 11,
+      "percent": 19,
       "color": "#8b949e"
-    },
-    {
-      "name": "Go",
-      "percent": 5,
-      "color": "#00ADD8"
-    },
-    {
-      "name": "JavaScript",
-      "percent": 5,
-      "color": "#f1e05a"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 0
+    "currentCommits": 15
   }
 }
