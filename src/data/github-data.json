@@ -1,34 +1,8 @@
 {
-  "lastUpdated": "2026-03-20T18:30:47.828Z",
+  "lastUpdated": "2026-03-21T18:19:16.316Z",
   "yesterday": {
-    "commitCount": 15,
-    "commits": [
-      {
-        "repo": "hoshii",
-        "message": "feat: Phase1 MVP + Supabase連携・AIカテゴリ分類・統計ページ実装",
-        "time": "18:05"
-      },
-      {
-        "repo": "hoshii",
-        "message": "chore: Phase 3 Session A 全タスク完了 — TASKS.md を [x] に更新",
-        "time": "17:06"
-      },
-      {
-        "repo": "hoshii",
-        "message": "feat: 集計・レポート API（月別・カテゴリ別・CSV エクスポート）",
-        "time": "17:06"
-      },
-      {
-        "repo": "hoshii",
-        "message": "chore: Phase 1 Session A 全タスク完了 — TASKS.md を [x] に更新",
-        "time": "16:57"
-      },
-      {
-        "repo": "hoshii",
-        "message": "feat: アイテム CRUD API（GET/POST/PATCH/DELETE）",
-        "time": "16:57"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
