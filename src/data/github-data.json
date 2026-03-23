@@ -1,34 +1,8 @@
 {
-  "lastUpdated": "2026-03-22T18:19:51.750Z",
+  "lastUpdated": "2026-03-23T18:36:07.508Z",
   "yesterday": {
-    "commitCount": 14,
-    "commits": [
-      {
-        "repo": "hoshii",
-        "message": "Merge pull request #10 from n1sp/feat/issue-2-category-view",
-        "time": "16:15"
-      },
-      {
-        "repo": "hoshii",
-        "message": "Merge pull request #9 from n1sp/fix/issue-1-ai-classify",
-        "time": "16:15"
-      },
-      {
-        "repo": "hoshii",
-        "message": "feat: カテゴリ別アコーディオンビューを追加",
-        "time": "16:13"
-      },
-      {
-        "repo": "hoshii",
-        "message": "fix: アイテム追加後に AI カテゴリ自動分類を呼び出す",
-        "time": "16:10"
-      },
-      {
-        "repo": "hoshii",
-        "message": "Merge pull request #8 from n1sp/feat/improve-mascot-loading",
-        "time": "15:58"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
