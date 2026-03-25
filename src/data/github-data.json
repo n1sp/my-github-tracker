@@ -1,22 +1,33 @@
 {
-  "lastUpdated": "2026-03-24T18:44:30.103Z",
+  "lastUpdated": "2026-03-25T18:40:14.896Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 2,
+    "commits": [
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "add: 業務フロー v2 の HTML ファイルを新規作成",
+        "time": "15:34"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "add: 現状の資料を同期",
+        "time": "14:39"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 83,
+      "percent": 82,
       "color": "#3178c6"
     },
     {
       "name": "Others",
-      "percent": 17,
+      "percent": 18,
       "color": "#8b949e"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 29
+    "currentCommits": 31
   }
 }
