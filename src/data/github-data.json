@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-03-25T18:40:14.896Z",
+  "lastUpdated": "2026-03-26T18:47:51.066Z",
   "yesterday": {
     "commitCount": 2,
     "commits": [
       {
-        "repo": "claude-sheet-pilot",
-        "message": "add: 業務フロー v2 の HTML ファイルを新規作成",
-        "time": "15:34"
+        "repo": "mb-task-assistant",
+        "message": "Add setup automation and progress tracking",
+        "time": "04:46"
       },
       {
-        "repo": "claude-sheet-pilot",
-        "message": "add: 現状の資料を同期",
-        "time": "14:39"
+        "repo": "mb-task-assistant",
+        "message": "Initial commit: project scaffold for mb-task-assistant",
+        "time": "04:28"
       }
     ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 82,
+      "percent": 83,
       "color": "#3178c6"
     },
     {
       "name": "Others",
-      "percent": 18,
+      "percent": 17,
       "color": "#8b949e"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 31
+    "currentCommits": 33
   }
 }
