@@ -1,33 +1,53 @@
 {
-  "lastUpdated": "2026-03-26T18:47:51.066Z",
+  "lastUpdated": "2026-03-27T18:39:46.100Z",
   "yesterday": {
-    "commitCount": 2,
+    "commitCount": 5,
     "commits": [
       {
-        "repo": "mb-task-assistant",
-        "message": "Add setup automation and progress tracking",
-        "time": "04:46"
+        "repo": "task-command-center",
+        "message": "docs: add README with architecture overview and Cloudflare deploy guide",
+        "time": "17:50"
+      },
+      {
+        "repo": "task-command-center",
+        "message": "feat: initial setup — Vite + React project scaffold with Shoji dashboard",
+        "time": "17:47"
       },
       {
         "repo": "mb-task-assistant",
-        "message": "Initial commit: project scaffold for mb-task-assistant",
-        "time": "04:28"
+        "message": "docs: CLAUDE.mdにコンテキスト参照・カスタムコマンド・進捗管理セクションを追加、関連ファイル一式を追加",
+        "time": "15:36"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "Merge pull request #1 from n1sp/claude/organize-project-progress-eGYn1",
+        "time": "12:32"
+      },
+      {
+        "repo": "mb-task-assistant",
+        "message": "Merge pull request #1 from n1sp/claude/check-progress-YfURO",
+        "time": "05:51"
       }
     ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 83,
+      "percent": 77,
       "color": "#3178c6"
     },
     {
+      "name": "JavaScript",
+      "percent": 12,
+      "color": "#f1e05a"
+    },
+    {
       "name": "Others",
-      "percent": 17,
+      "percent": 11,
       "color": "#8b949e"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 33
+    "currentCommits": 39
   }
 }
