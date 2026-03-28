@@ -1,34 +1,8 @@
 {
-  "lastUpdated": "2026-03-27T18:39:46.100Z",
+  "lastUpdated": "2026-03-28T18:22:22.625Z",
   "yesterday": {
-    "commitCount": 5,
-    "commits": [
-      {
-        "repo": "task-command-center",
-        "message": "docs: add README with architecture overview and Cloudflare deploy guide",
-        "time": "17:50"
-      },
-      {
-        "repo": "task-command-center",
-        "message": "feat: initial setup — Vite + React project scaffold with Shoji dashboard",
-        "time": "17:47"
-      },
-      {
-        "repo": "mb-task-assistant",
-        "message": "docs: CLAUDE.mdにコンテキスト参照・カスタムコマンド・進捗管理セクションを追加、関連ファイル一式を追加",
-        "time": "15:36"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "Merge pull request #1 from n1sp/claude/organize-project-progress-eGYn1",
-        "time": "12:32"
-      },
-      {
-        "repo": "mb-task-assistant",
-        "message": "Merge pull request #1 from n1sp/claude/check-progress-YfURO",
-        "time": "05:51"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
@@ -48,6 +22,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 39
+    "currentCommits": 24
   }
 }
