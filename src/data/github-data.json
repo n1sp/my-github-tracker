@@ -1,18 +1,34 @@
 {
-  "lastUpdated": "2026-03-28T18:22:22.625Z",
+  "lastUpdated": "2026-03-29T18:24:03.607Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 3,
+    "commits": [
+      {
+        "repo": "mb-task-assistant",
+        "message": "docs: タスク管理アシスタントの役割とフローを明確化し、詳細な手順を追加",
+        "time": "15:43"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "add: 出演依頼リストの軽量化に関するタスクを追加",
+        "time": "15:42"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "update: 神様シート設計確定・MCP検証完了・カラムマッピング整備",
+        "time": "15:16"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 77,
+      "percent": 76,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "percent": 12,
+      "percent": 13,
       "color": "#f1e05a"
     },
     {
@@ -22,6 +38,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 24
+    "currentCommits": 28
   }
 }
