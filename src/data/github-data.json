@@ -1,29 +1,8 @@
 {
-  "lastUpdated": "2026-03-30T18:42:49.921Z",
+  "lastUpdated": "2026-03-31T18:42:59.107Z",
   "yesterday": {
-    "commitCount": 4,
-    "commits": [
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "update: 作業ログの記録方法を追加し、進捗確認時のルールを明確化",
-        "time": "15:19"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "update: ⓪→①③④カラムマッピング全確定・ドキュメント整合性更新",
-        "time": "14:59"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "update: MCP選定完了を反映・ドキュメント整合性を更新",
-        "time": "03:26"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "update: 進捗確認時のルールを追加し、詳細レポートの内容を明確化",
-        "time": "03:13"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
