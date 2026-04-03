@@ -1,29 +1,8 @@
 {
-  "lastUpdated": "2026-04-02T18:38:49.249Z",
+  "lastUpdated": "2026-04-03T18:30:06.468Z",
   "yesterday": {
-    "commitCount": 4,
-    "commits": [
-      {
-        "repo": "car-llm-classfier",
-        "message": "feat: Implement video frame extraction and classification tool",
-        "time": "15:43"
-      },
-      {
-        "repo": "car-llm-classfier",
-        "message": ".gitignoreファイルを追加し、環境設定やキャッシュファイルを無視する設定を定義",
-        "time": "15:42"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "chore: 3/31セッション進捗をSupabaseに記録済み、ローカルメモ削除",
-        "time": "14:08"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "Merge pull request #2 from n1sp/claude/organize-project-progress-eGYn1",
-        "time": "08:03"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
@@ -48,6 +27,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 20
+    "currentCommits": 17
   }
 }
