@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-04T18:23:57.019Z",
+  "lastUpdated": "2026-04-05T18:25:38.110Z",
   "yesterday": {
     "commitCount": 1,
     "commits": [
       {
-        "repo": "plaud-scraping-demo",
-        "message": "Initial commit: PLAUD AI transcript extractor",
-        "time": "08:23"
+        "repo": "claude-sheet-pilot",
+        "message": "feat: ⓪神様シートv2設計 — TimeRexアンケート8項目追加、3PJタスク整理",
+        "time": "14:29"
       }
     ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 69,
+      "percent": 68,
       "color": "#3178c6"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "JavaScript",
-      "percent": 11,
+      "percent": 12,
       "color": "#f1e05a"
     },
     {
@@ -33,6 +33,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 12
+    "currentCommits": 13
   }
 }
