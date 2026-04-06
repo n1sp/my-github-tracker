@@ -1,12 +1,32 @@
 {
-  "lastUpdated": "2026-04-05T18:25:38.110Z",
+  "lastUpdated": "2026-04-06T18:39:13.112Z",
   "yesterday": {
-    "commitCount": 1,
+    "commitCount": 5,
     "commits": [
       {
         "repo": "claude-sheet-pilot",
-        "message": "feat: ⓪神様シートv2設計 — TimeRexアンケート8項目追加、3PJタスク整理",
-        "time": "14:29"
+        "message": "fix: MCP設定を~/.claude.jsonも含めてサービスアカウントに統一",
+        "time": "16:20"
+      },
+      {
+        "repo": "plaud-scraping-demo",
+        "message": "chore: add package-lock.json for reproducible installs",
+        "time": "16:17"
+      },
+      {
+        "repo": "plaud-scraping-demo",
+        "message": "feat: Cloudflare Workers Slack Bot MVP — PLAUD共有URL自動抽出・Supabase保存",
+        "time": "16:15"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "feat: Google Sheets MCP をサービスアカウント認証に移行",
+        "time": "14:30"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "chore: Google Sheets MCP設定をmcp.jsonに移行、credentials を .secrets/ に変更",
+        "time": "10:13"
       }
     ]
   },
@@ -33,6 +53,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 13
+    "currentCommits": 15
   }
 }
