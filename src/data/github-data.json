@@ -1,50 +1,50 @@
 {
-  "lastUpdated": "2026-04-06T18:39:13.112Z",
+  "lastUpdated": "2026-04-07T18:43:53.780Z",
   "yesterday": {
     "commitCount": 5,
     "commits": [
       {
         "repo": "claude-sheet-pilot",
-        "message": "fix: MCP設定を~/.claude.jsonも含めてサービスアカウントに統一",
-        "time": "16:20"
-      },
-      {
-        "repo": "plaud-scraping-demo",
-        "message": "chore: add package-lock.json for reproducible installs",
-        "time": "16:17"
-      },
-      {
-        "repo": "plaud-scraping-demo",
-        "message": "feat: Cloudflare Workers Slack Bot MVP — PLAUD共有URL自動抽出・Supabase保存",
-        "time": "16:15"
+        "message": "feat: /auto-tenki Skill登録、転記済3列化・送客ハッシュ設計反映",
+        "time": "15:07"
       },
       {
         "repo": "claude-sheet-pilot",
-        "message": "feat: Google Sheets MCP をサービスアカウント認証に移行",
-        "time": "14:30"
+        "message": "chore: node_modulesをgitignoreに追加、誤npm installの残骸を削除",
+        "time": "15:04"
       },
       {
         "repo": "claude-sheet-pilot",
-        "message": "chore: Google Sheets MCP設定をmcp.jsonに移行、credentials を .secrets/ に変更",
-        "time": "10:13"
+        "message": "feat: sheets-backupバッチをGASで実装、①直近3000行に絞り込み",
+        "time": "15:02"
+      },
+      {
+        "repo": "plaud-scraping-demo",
+        "message": "docs: CLAUDE.mdの内容を更新し、Slack Botのアーキテクチャと実行方法を明確化",
+        "time": "13:21"
+      },
+      {
+        "repo": "plaud-scraping-demo",
+        "message": "docs: READMEを現在のSlack Bot構成に刷新、production-deploy.mdのスキーマ更新",
+        "time": "04:26"
       }
     ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 68,
+      "percent": 67,
       "color": "#3178c6"
+    },
+    {
+      "name": "JavaScript",
+      "percent": 13,
+      "color": "#f1e05a"
     },
     {
       "name": "Python",
       "percent": 13,
       "color": "#3572A5"
-    },
-    {
-      "name": "JavaScript",
-      "percent": 12,
-      "color": "#f1e05a"
     },
     {
       "name": "Others",
@@ -53,6 +53,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 15
+    "currentCommits": 16
   }
 }
