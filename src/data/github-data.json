@@ -1,32 +1,12 @@
 {
-  "lastUpdated": "2026-04-07T18:43:53.780Z",
+  "lastUpdated": "2026-04-08T18:59:27.398Z",
   "yesterday": {
-    "commitCount": 5,
+    "commitCount": 1,
     "commits": [
       {
         "repo": "claude-sheet-pilot",
-        "message": "feat: /auto-tenki Skill登録、転記済3列化・送客ハッシュ設計反映",
-        "time": "15:07"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "chore: node_modulesをgitignoreに追加、誤npm installの残骸を削除",
-        "time": "15:04"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "feat: sheets-backupバッチをGASで実装、①直近3000行に絞り込み",
-        "time": "15:02"
-      },
-      {
-        "repo": "plaud-scraping-demo",
-        "message": "docs: CLAUDE.mdの内容を更新し、Slack Botのアーキテクチャと実行方法を明確化",
-        "time": "13:21"
-      },
-      {
-        "repo": "plaud-scraping-demo",
-        "message": "docs: READMEを現在のSlack Bot構成に刷新、production-deploy.mdのスキーマ更新",
-        "time": "04:26"
+        "message": "fix: 送客ハッシュ→送客転記予約に変更、③転記は新規追加のみに簡素化",
+        "time": "04:40"
       }
     ]
   },
@@ -53,6 +33,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 16
+    "currentCommits": 17
   }
 }
