@@ -1,34 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T18:54:59.093Z",
+  "lastUpdated": "2026-04-15T18:56:57.843Z",
   "yesterday": {
-    "commitCount": 12,
-    "commits": [
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "fix(runtime): 本番スプレッドシートIDに切り替え・④は一時無効化 (#4)",
-        "time": "15:43"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "fix(mcp): runtime/.claude/mcp.json をgit管理外にし各PCで生成する方式に統一 (#3)",
-        "time": "14:59"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "fix(ci): GITHUB_TOKEN明示化・permissions位置を修正",
-        "time": "14:26"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "fix: list_sheetsをMCP許可リストに追加",
-        "time": "14:23"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "revert: リリースノート自動生成をシンプルに戻す",
-        "time": "14:21"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
@@ -53,6 +27,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 25
+    "currentCommits": 20
   }
 }
