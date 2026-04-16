@@ -1,18 +1,44 @@
 {
-  "lastUpdated": "2026-04-15T18:56:57.843Z",
+  "lastUpdated": "2026-04-16T18:54:39.965Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 7,
+    "commits": [
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "feat(backup): スプシバックアップ世代管理・ローカルツール追加 (#6)",
+        "time": "17:01"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "feat(backup): 世代管理・sanity check・ローカルツール追加",
+        "time": "17:01"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "fix(auto-tenki): ①検索を1列読み方式に変更・batch_update_cells権限追加",
+        "time": "17:01"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "feat(sheets-backup): 世代管理方式でバックアップスクリプトを拡充",
+        "time": "17:01"
+      },
+      {
+        "repo": "claude-sheet-pilot",
+        "message": "doc: 少し手修正",
+        "time": "15:21"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 67,
+      "percent": 64,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "percent": 13,
+      "percent": 17,
       "color": "#f1e05a"
     },
     {
@@ -22,11 +48,11 @@
     },
     {
       "name": "Others",
-      "percent": 8,
+      "percent": 7,
       "color": "#8b949e"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 20
+    "currentCommits": 26
   }
 }
