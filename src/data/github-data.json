@@ -1,34 +1,8 @@
 {
-  "lastUpdated": "2026-04-16T18:54:39.965Z",
+  "lastUpdated": "2026-04-17T18:39:46.060Z",
   "yesterday": {
-    "commitCount": 7,
-    "commits": [
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "feat(backup): スプシバックアップ世代管理・ローカルツール追加 (#6)",
-        "time": "17:01"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "feat(backup): 世代管理・sanity check・ローカルツール追加",
-        "time": "17:01"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "fix(auto-tenki): ①検索を1列読み方式に変更・batch_update_cells権限追加",
-        "time": "17:01"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "feat(sheets-backup): 世代管理方式でバックアップスクリプトを拡充",
-        "time": "17:01"
-      },
-      {
-        "repo": "claude-sheet-pilot",
-        "message": "doc: 少し手修正",
-        "time": "15:21"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
