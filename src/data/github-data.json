@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T18:30:08.046Z",
+  "lastUpdated": "2026-04-19T18:30:38.131Z",
   "yesterday": {
     "commitCount": 1,
     "commits": [
       {
-        "repo": "household-budget",
-        "message": "新規ファイル: 家計管理システムのプロジェクトコンテキスト、月別キャッシュフロー、負債一覧・返済ロードマップ、固定費・変動費・カード情報を追加",
-        "time": "15:31"
+        "repo": "claude-sheet-pilot",
+        "message": "fix(mcp): MCP設定ファイルをgitルート直下の.mcp.jsonに移動",
+        "time": "18:50"
       }
     ]
   },
@@ -33,6 +33,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 27
+    "currentCommits": 26
   }
 }
