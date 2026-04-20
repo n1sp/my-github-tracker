@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-19T18:30:38.131Z",
+  "lastUpdated": "2026-04-20T18:47:23.252Z",
   "yesterday": {
     "commitCount": 1,
     "commits": [
       {
         "repo": "claude-sheet-pilot",
-        "message": "fix(mcp): MCP設定ファイルをgitルート直下の.mcp.jsonに移動",
-        "time": "18:50"
+        "message": "fix(release): zipの除外パスを.mcp.jsonに更新",
+        "time": "04:00"
       }
     ]
   },
