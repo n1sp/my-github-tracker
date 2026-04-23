@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-04-22T18:54:30.619Z",
+  "lastUpdated": "2026-04-23T18:51:47.389Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 13,
+    "commits": [
+      {
+        "repo": "pitch-board",
+        "message": "fix: 見積金額はすでに税込のため消費税計算を除去",
+        "time": "15:27"
+      },
+      {
+        "repo": "pitch-board",
+        "message": "feat: 見積書を税込表示に変更・プルダウン背景色を修正",
+        "time": "15:26"
+      },
+      {
+        "repo": "pitch-board",
+        "message": "feat: Google OAuth ログインを追加",
+        "time": "14:58"
+      },
+      {
+        "repo": "pitch-board",
+        "message": "feat: フォーム操作にローディング表示と保存完了トーストを追加",
+        "time": "14:40"
+      },
+      {
+        "repo": "pitch-board",
+        "message": "feat: 見積書の明細に時間表示オプションを追加",
+        "time": "14:34"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 64,
+      "percent": 69,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "percent": 17,
+      "percent": 14,
       "color": "#f1e05a"
     },
     {
       "name": "Python",
-      "percent": 12,
+      "percent": 10,
       "color": "#3572A5"
     },
     {
@@ -27,6 +53,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 10
+    "currentCommits": 26
   }
 }
