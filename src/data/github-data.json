@@ -1,32 +1,12 @@
 {
-  "lastUpdated": "2026-04-23T18:51:47.389Z",
+  "lastUpdated": "2026-04-24T18:34:02.679Z",
   "yesterday": {
-    "commitCount": 13,
+    "commitCount": 1,
     "commits": [
       {
         "repo": "pitch-board",
-        "message": "fix: 見積金額はすでに税込のため消費税計算を除去",
-        "time": "15:27"
-      },
-      {
-        "repo": "pitch-board",
-        "message": "feat: 見積書を税込表示に変更・プルダウン背景色を修正",
-        "time": "15:26"
-      },
-      {
-        "repo": "pitch-board",
-        "message": "feat: Google OAuth ログインを追加",
-        "time": "14:58"
-      },
-      {
-        "repo": "pitch-board",
-        "message": "feat: フォーム操作にローディング表示と保存完了トーストを追加",
-        "time": "14:40"
-      },
-      {
-        "repo": "pitch-board",
-        "message": "feat: 見積書の明細に時間表示オプションを追加",
-        "time": "14:34"
+        "message": "Merge pull request #1 from n1sp/claude/add-quote-number-pdf-XnBbH",
+        "time": "22:11"
       }
     ]
   },
@@ -53,6 +33,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 26
+    "currentCommits": 20
   }
 }
