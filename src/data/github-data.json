@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-05-08T19:00:36.353Z",
+  "lastUpdated": "2026-05-09T18:40:51.626Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 3,
+    "commits": [
+      {
+        "repo": "timerex-sheets-worker",
+        "message": "feat: 流入A列をカレンダータイトル先頭で分岐し自社営業担当H列を空欄化",
+        "time": "14:59"
+      },
+      {
+        "repo": "timerex-sheets-worker",
+        "message": "chore: リクエストID付きログとSheets APIレスポンス詳細を出力",
+        "time": "14:05"
+      },
+      {
+        "repo": "timerex-sheets-worker",
+        "message": "feat: staging/production環境を完全分離しシークレット一括投入に移行",
+        "time": "14:04"
+      }
+    ]
   },
   "languages": [
     {
@@ -27,6 +43,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 0
+    "currentCommits": 3
   }
 }
