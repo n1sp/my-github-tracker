@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-05-09T18:40:51.626Z",
+  "lastUpdated": "2026-05-10T18:42:10.015Z",
   "yesterday": {
     "commitCount": 3,
     "commits": [
       {
-        "repo": "timerex-sheets-worker",
-        "message": "feat: 流入A列をカレンダータイトル先頭で分岐し自社営業担当H列を空欄化",
-        "time": "14:59"
+        "repo": "career-strategy",
+        "message": "Add monthly reports (Feb-Apr) and update CLAUDE.md naming convention",
+        "time": "16:20"
       },
       {
-        "repo": "timerex-sheets-worker",
-        "message": "chore: リクエストID付きログとSheets APIレスポンス詳細を出力",
-        "time": "14:05"
+        "repo": "career-strategy",
+        "message": "Add CLAUDE.md and README.md",
+        "time": "16:10"
       },
       {
-        "repo": "timerex-sheets-worker",
-        "message": "feat: staging/production環境を完全分離しシークレット一括投入に移行",
-        "time": "14:04"
+        "repo": "career-strategy",
+        "message": "first commit",
+        "time": "16:01"
       }
     ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 62,
+      "percent": 63,
       "color": "#3178c6"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "Python",
-      "percent": 12,
+      "percent": 11,
       "color": "#3572A5"
     },
     {
@@ -43,6 +43,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 3
+    "currentCommits": 6
   }
 }
