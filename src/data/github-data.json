@@ -1,13 +1,39 @@
 {
-  "lastUpdated": "2026-06-06T19:01:45.723Z",
+  "lastUpdated": "2026-06-07T19:02:06.934Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 7,
+    "commits": [
+      {
+        "repo": "before-kickoff",
+        "message": "ai: コミットメッセージ規約を CLAUDE.md に追加",
+        "time": "08:53"
+      },
+      {
+        "repo": "before-kickoff",
+        "message": "ai: CLAUDE.md を追加（AIエージェント向けドキュメントへの導線つき）",
+        "time": "08:47"
+      },
+      {
+        "repo": "before-kickoff",
+        "message": "ai: フェーズ2のコンテンツ拡充プランを追加",
+        "time": "08:47"
+      },
+      {
+        "repo": "before-kickoff",
+        "message": "ai: ロードマップ（技術的負債の一覧・優先順位つき）を追加",
+        "time": "08:47"
+      },
+      {
+        "repo": "before-kickoff",
+        "message": "ai: アーキテクチャと主要な設計判断のメモを追加",
+        "time": "08:47"
+      }
+    ]
   },
   "languages": [
     {
       "name": "TypeScript",
-      "percent": 63,
+      "percent": 61,
       "color": "#3178c6"
     },
     {
@@ -16,17 +42,17 @@
       "color": "#f1e05a"
     },
     {
-      "name": "Python",
+      "name": "Others",
       "percent": 11,
-      "color": "#3572A5"
+      "color": "#8b949e"
     },
     {
-      "name": "Others",
-      "percent": 8,
-      "color": "#8b949e"
+      "name": "Python",
+      "percent": 10,
+      "color": "#3572A5"
     }
   ],
   "weeklyStats": {
-    "currentCommits": 0
+    "currentCommits": 7
   }
 }
