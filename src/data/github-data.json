@@ -1,34 +1,8 @@
 {
-  "lastUpdated": "2026-06-07T19:02:06.934Z",
+  "lastUpdated": "2026-06-08T19:56:39.658Z",
   "yesterday": {
-    "commitCount": 7,
-    "commits": [
-      {
-        "repo": "before-kickoff",
-        "message": "ai: コミットメッセージ規約を CLAUDE.md に追加",
-        "time": "08:53"
-      },
-      {
-        "repo": "before-kickoff",
-        "message": "ai: CLAUDE.md を追加（AIエージェント向けドキュメントへの導線つき）",
-        "time": "08:47"
-      },
-      {
-        "repo": "before-kickoff",
-        "message": "ai: フェーズ2のコンテンツ拡充プランを追加",
-        "time": "08:47"
-      },
-      {
-        "repo": "before-kickoff",
-        "message": "ai: ロードマップ（技術的負債の一覧・優先順位つき）を追加",
-        "time": "08:47"
-      },
-      {
-        "repo": "before-kickoff",
-        "message": "ai: アーキテクチャと主要な設計判断のメモを追加",
-        "time": "08:47"
-      }
-    ]
+    "commitCount": 0,
+    "commits": []
   },
   "languages": [
     {
@@ -53,6 +27,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 7
+    "currentCommits": 15
   }
 }
