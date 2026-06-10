@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-06-09T19:52:17.693Z",
+  "lastUpdated": "2026-06-10T20:04:05.517Z",
   "yesterday": {
-    "commitCount": 0,
-    "commits": []
+    "commitCount": 30,
+    "commits": [
+      {
+        "repo": "before-kickoff",
+        "message": "ai: グループステージ試合72/72完了を反映しメタ情報を更新",
+        "time": "13:38"
+      },
+      {
+        "repo": "before-kickoff",
+        "message": "feat: ウズベキスタン×コロンビア戦のページを追加",
+        "time": "13:36"
+      },
+      {
+        "repo": "before-kickoff",
+        "message": "feat: アメリカ×パラグアイ戦のページを追加",
+        "time": "13:36"
+      },
+      {
+        "repo": "before-kickoff",
+        "message": "feat: アメリカ×オーストラリア戦のページを追加",
+        "time": "13:36"
+      },
+      {
+        "repo": "before-kickoff",
+        "message": "feat: ウルグアイ×カーボベルデ戦のページを追加",
+        "time": "13:36"
+      }
+    ]
   },
   "languages": [
     {
@@ -27,6 +53,6 @@
     }
   ],
   "weeklyStats": {
-    "currentCommits": 15
+    "currentCommits": 121
   }
 }
